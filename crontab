@@ -1,0 +1,2 @@
+*/10 * * * * /fetch.sh >> /home/git/cron.log 2>&1
+5-59/10 * * * * /push.sh >> /home/git/cron.log 2>&1
